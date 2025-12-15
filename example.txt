@@ -1,1 +1,3 @@
-welcome to the git session 
+welcome to the git session .
+git hub is open source.
+github is a store a data.
