@@ -25,7 +25,7 @@
 # write a program to create a list and display a complex numbers.
 # my_list = [1,2,3,4,5]
 # i=0
-# while i<len(my_list):
+# while i<len(my_list[i]):
 #     print(my_list)
 #     i+=1
 # for item in my_list:
